@@ -82,7 +82,7 @@
 
 ## Creators
 <p><strong>Gokul Vasudeva</strong>   https://github.com/gokulvsd</p>
-<p><strong>Anusha A</strong>   https://github.com/anushab05</p>
+<p><strong>Anusha A</strong>   https://github.com/anushaa51</p>
 Coded on a single laptop, hence why the second collaborator doesn't have many commits.
 <br />
 
